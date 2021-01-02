@@ -57,7 +57,7 @@
         android:layout_below="@+id/frth"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="shailendra kumar yadav"
+        android:text="Anoop sir"
         android:textColor="#000FFF"
         android:textSize="40dp"
         app:layout_constraintLeft_toLeftOf="parent"
